@@ -445,5 +445,9 @@ code.lang-markdown .bullet {
 .container {
   padding-left: 22%;
   padding-right: 22%;
+}
 
+.spacer {
+  margin-right: 5px;
+  margin-left: 5px;
 }
