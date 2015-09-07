@@ -437,3 +437,8 @@ code.lang-markdown .bullet {
     margin-bottom: 1em;
   }
 }
+/*************  Projects Menu *************/
+.projects-menu {
+  text-align: center;
+  width: 500px;
+}
