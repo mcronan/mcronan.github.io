@@ -439,6 +439,6 @@ code.lang-markdown .bullet {
 }
 /*************  Projects Menu *************/
 .projects-menu {
-  text-align: center;
-  width: 500px;
+/*  text-align: center;
+*/  width: 500px;
 }
