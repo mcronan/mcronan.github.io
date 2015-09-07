@@ -441,3 +441,9 @@ code.lang-markdown .bullet {
 .projects-menu {
   text-align: center;
 }
+
+.container {
+  padding-left: 30%;
+  padding-right: 30%;
+
+}
