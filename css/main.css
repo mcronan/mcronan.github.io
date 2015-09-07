@@ -21,7 +21,7 @@ body, a {
 }
 
 a:hover {
-  color: #ff8000;
+  color: #ff8000 !important;
   text-decoration: underline;
 }
 
