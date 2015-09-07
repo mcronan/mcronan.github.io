@@ -451,3 +451,7 @@ code.lang-markdown .bullet {
   margin-right: 12.5px;
   margin-left: 12.5px;
 }
+
+.projects-size {
+  font-size: 16px;
+}
